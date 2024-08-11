@@ -1,6 +1,7 @@
 # Project-1
-This projects answers the below questions;
-	1. Find the number of times the wind speed was exactly 4 km/hr.
+This projects answers the following questions;
+	
+        1. Find the number of times the wind speed was exactly 4 km/hr.
  
 	2. Check if there are any NULL values present in the dataset.
  
